@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TAO</string>
+    <string name="title_home">주문 관리</string>
+    <string name="title_dashboard">오늘 매상</string>
+    <string name="title_notifications">월별 매상</string>
+    <string name="call">호출</string>
+</resources>
